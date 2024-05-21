@@ -1,0 +1,13 @@
+
+What is open source harware?
+    - hardware design which is made publically availalbe so that anyone can study, modiy, distribute, make and sell the design or hardware based on that design.
+
+    - A great way to share knowledge and facilitate development of new products.
+
+
+How to share the design files?
+    - Github, google Code making them public throughout the design development process.
+
+
+hardware licensing?
+- 
